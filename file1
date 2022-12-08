@@ -1,0 +1,6 @@
+#!/bin/bash 
+ 
+
+file=2
+
+read -p "what is your name?: " biola
